@@ -1,0 +1,12 @@
+Customer ID: 1
+First Name: Jenna
+Last Name: Laughlin
+Email: LaughlinJ14@yahoo.com
+Sorted product(s) are: 
+201 
+202 
+203 
+Subtotal: $88.99
+Shipping: $0
+Discount: $8.899
+Total: $80.091
